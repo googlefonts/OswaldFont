@@ -77,8 +77,14 @@ Oswald v4.0(24th August 2016)
 - Overhauled all anchors and related components.
 
 Oswald v.4.003 (19th June 2017) Alexei Vanyashin a@cyreal.org
-— Fixed issue https://github.com/google/fonts/issues/1039 — lack of diacritics in Cyrillic ЃЁЙЌЎЇ
-— improved design of Cyrillic /б
+— Fixed issue https://github.com/google/fonts/issues/1039 — lack of diacritics in Cyrillic ЃЁЙЌЎЇ
+— improved design of Cyrillic /б
+
+Oswald v.4.004 (22nd September 2017) Kalapi Gajjar-Bordawekar k@kalapigajjar.com
+— Fixes issue https://github.com/google/fonts/issues/1026 (incorrectly spaced 'quotedbl' and  'quotesingle')
+— Replaces Latin-esque Cyrillic glyphs with components.
+- Fixes rounding errors in kerning.
+- Fixes outline errors.
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and 

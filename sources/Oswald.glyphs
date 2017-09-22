@@ -35,7 +35,7 @@ name = "Disable Last Change";
 value = 1;
 }
 );
-date = "2017-06-19 09:14:44 +0000";
+date = "2017-09-22 11:11:33 +0000";
 designer = "Vernon Adams";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
@@ -73930,11 +73930,11 @@ kerning = {
 "@MMK_R_Y" = -18;
 "@MMK_R_w" = -4;
 "@MMK_R_y" = -6;
+Q = 0;
 V = -32;
 quotedblright = -60;
 quoteright = -60;
 v = -10;
-Q = 0;
 };
 "@MMK_L_D" = {
 "@MMK_R_A" = -4;
@@ -74149,9 +74149,9 @@ comma = -18;
 };
 "@MMK_L_y" = {
 "@MMK_R_a" = -4;
+"@MMK_R_o" = -4;
 comma = -18;
 period = -22;
-"@MMK_R_o" = -4;
 };
 A = {
 Ccedilla = -2;
@@ -74161,8 +74161,8 @@ Ccedilla = -2;
 "Che-cy" = -28;
 "Hardsign-cy" = -18;
 "Te-cy" = -36;
-quoteright = -60;
 quotedblright = -60;
+quoteright = -60;
 };
 Aacute = {
 Ccedilla = -2;
@@ -74620,8 +74620,8 @@ Ccedilla = -8;
 "Che-cy" = -26;
 "Hardsign-cy" = -2;
 "Te-cy" = -26;
-quoteright = -56;
 quotedblright = -56;
+quoteright = -56;
 };
 Aacute = {
 Ccedilla = -8;
@@ -75225,6 +75225,16 @@ x = 0;
 p = {
 agrave = 2;
 };
+quotedblleft = {
+"@MMK_R_A" = -50;
+"A-cy" = -50;
+AE = -70;
+};
+quoteleft = {
+"@MMK_R_A" = -50;
+"A-cy" = -50;
+AE = -70;
+};
 quoteright = {
 "@MMK_R_d" = 0;
 };
@@ -75277,16 +75287,6 @@ odblgrave = -4;
 "zhe-cy" = {
 "a-cy" = -4;
 "o-cy" = -10;
-};
-quoteleft = {
-"@MMK_R_A" = -50;
-"A-cy" = -50;
-AE = -70;
-};
-quotedblleft = {
-"@MMK_R_A" = -50;
-"A-cy" = -50;
-AE = -70;
 };
 };
 };
@@ -76024,5 +76024,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 4;
-versionMinor = 3;
+versionMinor = 4;
 }
