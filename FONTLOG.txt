@@ -76,7 +76,9 @@ Oswald v4.0(24th August 2016)
 - Expanded the character-set of the upright styles to support Google Plus glyph-set (https://github.com/google/fonts/tree/master/tools/encodings/GF%202016%20Glyph%20Sets).
 - Overhauled all anchors and related components.
 
-
+Oswald v.4.003 (19th June 2017) Alexei Vanyashin a@cyreal.org
+— Fixed issue https://github.com/google/fonts/issues/1039 — lack of diacritics in Cyrillic ЃЁЙЌЎЇ
+— improved design of Cyrillic /б
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and 
