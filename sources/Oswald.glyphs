@@ -41625,7 +41625,7 @@ name = T;
 }
 );
 layerId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
-width = 380;
+width = 414;
 },
 {
 associatedMasterId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
@@ -80941,6 +80941,43 @@ width = 791;
 };
 };
 };
+},
+{
+color = 9;
+glyphname = commaturnedmod;
+layers = (
+{
+components = (
+{
+alignment = 1;
+name = quoteleft;
+}
+);
+layerId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
+width = 152;
+},
+{
+components = (
+{
+alignment = 1;
+name = quoteleft;
+}
+);
+layerId = "8AC5A1D3-32A8-4416-86FC-94176A419B8F";
+width = 208;
+},
+{
+components = (
+{
+alignment = 1;
+name = quoteleft;
+}
+);
+layerId = "3FB85DAF-C7EF-4F81-BE96-1E190958879E";
+width = 234;
+}
+);
+unicode = 02BB;
 },
 {
 glyphname = firsttonechinese;
