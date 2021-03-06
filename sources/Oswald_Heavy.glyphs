@@ -1,5 +1,8 @@
 {
 .appVersion = "1192";
+DisplayStrings = (
+bold
+);
 classes = (
 {
 automatic = 1;
@@ -42306,7 +42309,6 @@ V = -20;
 "@MMK_R_W" = 20;
 "@MMK_R_Y" = 30;
 "@MMK_R_a" = -40;
-"@MMK_R_o" = -30;
 V = 20;
 };
 "@MMK_L_m" = {

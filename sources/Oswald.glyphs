@@ -20418,12 +20418,6 @@ nodes = (
 width = 395;
 },
 {
-associatedMasterId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
-layerId = "0C242771-698E-4ECF-88BF-BA92679E2B8D";
-name = b;
-width = 524;
-},
-{
 anchors = (
 {
 name = bottom;
@@ -102275,7 +102269,6 @@ q = -5;
 };
 "@MMK_L_l" = {
 "@MMK_R_a" = -30;
-"@MMK_R_o" = -38;
 };
 "@MMK_L_m" = {
 "@MMK_R_y" = -1;
@@ -103813,7 +103806,6 @@ V = -16;
 "@MMK_R_W" = 16;
 "@MMK_R_Y" = 23;
 "@MMK_R_a" = -38;
-"@MMK_R_o" = -32;
 V = 16;
 };
 "@MMK_L_m" = {
@@ -105417,5 +105409,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 4;
-versionMinor = 101;
+versionMinor = 102;
 }

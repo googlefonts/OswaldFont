@@ -7,7 +7,7 @@ mkdir -p ../fonts
 fontmake -g Oswald.glyphs -i -o ttf --output-dir ../fonts/ttf/
 fontmake -g Oswald.glyphs -i -o otf --output-dir ../fonts/otf/
 fontmake -g Oswald_Heavy.glyphs -o ttf --output-dir ../fonts/ttf/
-fontmake -g Oswald_Heavy.glyphs -o otf --output-dir ../fonts/ttf/
+fontmake -g Oswald_Heavy.glyphs -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -g Oswald.glyphs -o variable --output-path ../fonts/ttf/Oswald-VF.ttf
@@ -21,6 +21,9 @@ for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
 	./ttfautohint-vf $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
+
+	gftools fix-hinting $ttf
 	mv "$ttf.fix" $ttf;
 done
 
