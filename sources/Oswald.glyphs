@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -83642,7 +83642,7 @@ name = dcroat;
 },
 {
 name = minus;
-transform = "{1, 0, 0, 1, 26, -459}";
+transform = "{0.9999, 0, 0, 1, 26, -459}";
 }
 );
 layerId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
@@ -103813,7 +103813,7 @@ V = -16;
 "@MMK_R_W" = 16;
 "@MMK_R_Y" = 23;
 "@MMK_R_a" = -38;
-"@MMK_R_o" = -32;
+"@MMK_R_o" = 0;
 V = 16;
 };
 "@MMK_L_m" = {
@@ -105417,5 +105417,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 4;
-versionMinor = 101;
+versionMinor = 102;
 }
