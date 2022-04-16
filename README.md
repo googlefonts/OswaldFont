@@ -4,7 +4,7 @@ Oswald is a reworking of the classic gothic typeface style historically represen
 
 ## Completed tasks:
 - Converted project files to .glyphs
-- Fixed tasks listed in ProjectChecklist.md and internal planning spreadsheet.
+- Fixed tasks listed in [ProjectChecklist.md](https://github.com/googlefonts/gf-docs/tree/main/ProjectChecklist) and internal planning spreadsheet.
 - Corrected OpenType features
 - Changed upm from 2048 to 1000
 - Fix glyphs, anchors and components
