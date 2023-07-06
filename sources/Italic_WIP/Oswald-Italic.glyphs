@@ -1,9 +1,6 @@
 {
 .appVersion = "3201";
 .formatVersion = 3;
-DisplayStrings = (
-"AÁĂÂ̏ȀÄ̀À̑Ȃ̄ĀĄĄA˚̊ÅÃÆBḂCĆČÇĈĊDǱǄĎĐḊǲǅÐEÉĔĚÊȄËĖÈȆĒĘFḞGǴĞĜĢĠHĦĤIÍĬÎȈÏİÌȊĪĮĨJĴKĶLǇĹĽĻĿǈŁMṀNǊŃŇŅǋÑŊOÓŎÔȌÖÒŐȎŌØÕŒPṖÞQRŔŘŖȐȒSŚŠŞŜȘṠTŦŤŢȚṪUÚŬÛȔÜÙŰȖŪŲŮŨVWẂŴẄẀXYÝŶŸỲZŹŽŻaáăâȁäàȃāąåãæbḃcćčçĉċdďđḋǳǆðeéĕěêȅëėèȇēęfḟgǵğĝģġhħĥiıíĭîȉïìȋīįĩĳjȷĵkķĸlĺľļŀǉłmṁnńŉňņǌñŋoóŏôȍöòőȏōøõœpṗþqrŕřŗȑȓsśšşŝșṡßtŧťţțṫuúŭûȕüùűȗūųůũvwẃŵẅẁxyýŷÿỳzźžż/f_f/f_f_i/f_f_l ﬁﬂ"
-);
 axes = (
 {
 name = Weight;
@@ -35419,7 +35416,7 @@ width = 55;
 },
 {
 glyphname = e;
-lastChange = "2023-07-06 13:26:10 +0000";
+lastChange = "2023-07-06 13:38:01 +0000";
 layers = (
 {
 anchors = (
@@ -35429,7 +35426,7 @@ pos = (190,0);
 },
 {
 name = ogonek;
-pos = (341,10);
+pos = (241,10);
 },
 {
 name = top;
@@ -35541,7 +35538,7 @@ pos = (241,0);
 },
 {
 name = ogonek;
-pos = (433,10);
+pos = (293,10);
 },
 {
 name = top;
@@ -35653,7 +35650,7 @@ pos = (209,0);
 },
 {
 name = ogonek;
-pos = (376,10);
+pos = (246,10);
 },
 {
 name = top;
@@ -38075,7 +38072,7 @@ width = 50;
 },
 {
 glyphname = eogonek;
-lastChange = "2023-07-06 13:12:48 +0000";
+lastChange = "2023-07-06 13:38:01 +0000";
 layers = (
 {
 background = {
@@ -38148,14 +38145,14 @@ nodes = (
 layerId = "6D1B020D-7C4E-4885-9208-B35BA480FE8F";
 shapes = (
 {
-ref = ogonek;
+ref = e;
 },
 {
-pos = (219,0);
-ref = e;
+pos = (107,-2);
+ref = ogonekcomb;
 }
 );
-width = 598;
+width = 379;
 },
 {
 background = {
@@ -38228,14 +38225,14 @@ nodes = (
 layerId = "BF03A18F-065F-4249-8E16-486B9CB494A0";
 shapes = (
 {
-ref = ogonek;
+ref = e;
 },
 {
-pos = (270,0);
-ref = e;
+pos = (160,0);
+ref = ogonekcomb;
 }
 );
-width = 751;
+width = 481;
 },
 {
 background = {
@@ -38308,14 +38305,14 @@ nodes = (
 layerId = "43161617-4660-4075-B14A-1D8E25AEE542";
 shapes = (
 {
-ref = ogonek;
+ref = e;
 },
 {
-pos = (238,0);
-ref = e;
+pos = (124,-3);
+ref = ogonekcomb;
 }
 );
-width = 656;
+width = 418;
 }
 );
 unicode = 281;
@@ -44429,7 +44426,7 @@ width = 58;
 },
 {
 glyphname = k;
-lastChange = "2023-07-06 13:16:51 +0000";
+lastChange = "2023-07-06 13:38:20 +0000";
 layers = (
 {
 anchors = (
@@ -44576,6 +44573,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(136,1,l),
+(159,222,l),
+(219,298,l),
+(296,0,l),
 (400,0,l),
 (304,352,l),
 (465,578,l),
@@ -44583,11 +44584,7 @@ nodes = (
 (170,325,l),
 (221,811,l),
 (118,811,l),
-(32,1,l),
-(136,1,l),
-(159,222,l),
-(219,298,l),
-(296,0,l)
+(32,1,l)
 );
 }
 );
