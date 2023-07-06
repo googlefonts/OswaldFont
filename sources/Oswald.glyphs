@@ -27,6 +27,19 @@ value = 1;
 {
 name = "Write lastChange";
 value = 0;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+200 = 200;
+300 = 275;
+400 = 400;
+500 = 560;
+600 = 644;
+700 = 710;
+};
+};
 }
 );
 date = "2017-09-22 11:11:33 +0000";
@@ -273,7 +286,7 @@ pos = -190;
 over = -11;
 }
 );
-name = Light;
+name = ExtraLight;
 userData = {
 GSCornerRadius = 50;
 };
@@ -105041,13 +105054,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 key = vendorID;
